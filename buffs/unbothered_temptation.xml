@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buffs>
+  <buff name="Unbothered_Temptation" base_id="1234569">
+    <display_name>Unbothered Temptation</display_name>
+    <description>A mischievous spark lingers after a risky romantic encounter. Playful Sims feel ready to make the next bad decision beautifully.</description>
+    <mood_type>Playful</mood_type>
+    <intensity>Very Strong</intensity>
+    <duration>360</duration>
+    <duration_unit>minutes</duration_unit>
+    <visible>true</visible>
+    <icon>unbothered_temptation</icon>
+    <buffs_on_removal/>
+  </buff>
+</buffs>
