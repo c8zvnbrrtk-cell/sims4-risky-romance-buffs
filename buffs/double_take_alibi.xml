@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buffs>
+  <buff name="Double_Take_Alibi" base_id="1234568">
+    <display_name>Double-Take Alibi</display_name>
+    <description>A mischievous spark lingers after a risky romantic encounter. Confident Sims feel ready to make the next bad decision beautifully.</description>
+    <mood_type>Confident</mood_type>
+    <intensity>Strong</intensity>
+    <duration>240</duration>
+    <duration_unit>minutes</duration_unit>
+    <visible>true</visible>
+    <icon>double_take_alibi</icon>
+    <buffs_on_removal/>
+  </buff>
+</buffs>
